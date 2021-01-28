@@ -1,0 +1,64 @@
+#x{
+    background-image: linear-gradient(lightgreen, darkgreen);
+    text-align: center;
+}
+
+#i{
+    width: 550px;
+    height: 300px;
+}
+
+#y{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMeDL_FA1H1VBWNXkwP8LQ_4gvEv7irzmPg&usqp=CAU');
+    background-size: cover;
+    text-align: center;
+}
+
+#thing{
+    background-color:skyblue;
+    width:fit-content;
+    text-align: center;
+    margin-left: 350px;
+}
+
+#z{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#b{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+#thing2{
+    background-color:skyblue;
+    width:fit-content;
+    text-align: center;
+    margin-left: 1300px;
+    
+}
+
+#z{
+    background-image: linear-gradient(white, tomato);
+    text-align: center;
+}
+
+#y{
+    background: "https://images6.alphacoders.com/469/thumb-1920-469646.jpg";
+}
+
+#a{
+    width: 350px;
+}
+
+#b{
+    width: 350px;
+}
+#c{
+    width: 350px; 
+}
+#d{
+    width: 350px; 
+}
